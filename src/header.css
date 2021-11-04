@@ -1,0 +1,33 @@
+.align-center{
+    margin-top: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.float-child{
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.float-child2{
+    width: 33%;
+    float: left;
+    padding: 20px;
+    padding-top: 100px;
+}
+
+.margins{
+    margin-left: 20px;
+}
+
+.tableposition{
+    margin-bottom: 20px;
+    float: left;
+    width: 100%;
+}
+
+.test{
+    margin-top: 50px;
+}
