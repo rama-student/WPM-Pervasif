@@ -1,0 +1,6 @@
+1) UI - DONE
+2) how to connect reactJS to nodeJS
+2) mongodb
+3) virtualized table
+4) realtime chart
+5) 
