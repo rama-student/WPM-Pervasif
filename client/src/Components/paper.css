@@ -1,0 +1,39 @@
+.bababa{
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.btnposition{
+    margin-left: 60px;
+    position: relative;
+    bottom: 38px;
+    right: 20px;
+}
+
+.btn {
+    background: #ffffff;
+    background-image: -webkit-linear-gradient(top, #ffffff, #ccd5db);
+    background-image: -moz-linear-gradient(top, #ffffff, #ccd5db);
+    background-image: -ms-linear-gradient(top, #ffffff, #ccd5db);
+    background-image: -o-linear-gradient(top, #ffffff, #ccd5db);
+    background-image: linear-gradient(to bottom, #ffffff, #ccd5db);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #d1dce3;
+    background-image: -webkit-linear-gradient(top, #d1dce3, #c0c7cc);
+    background-image: -moz-linear-gradient(top, #d1dce3, #c0c7cc);
+    background-image: -ms-linear-gradient(top, #d1dce3, #c0c7cc);
+    background-image: -o-linear-gradient(top, #d1dce3, #c0c7cc);
+    background-image: linear-gradient(to bottom, #d1dce3, #c0c7cc);
+    text-decoration: none;
+  }
