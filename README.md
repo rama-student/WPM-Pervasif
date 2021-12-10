@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Getting started with Wireless Power Meter
 
 ## First time using WPM
-- Go to [WPM Website](https://wwppmm.herokuapp.com/).
+- Go to [WPM Website](https://wpmumn.herokuapp.com/).
 - Click **Don't have an account? Sign Up**
 - Enter your account information
 - Click **Sign Up**
