@@ -1,0 +1,49 @@
+.align-center{
+    margin-top: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.float-child{
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.float-child2{
+    float: left;
+    padding: 20px;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+
+.margins{
+    margin-left: 20px;
+}
+
+.tableposition{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    float:right;
+    width: 100%;
+}
+
+.vtable{
+    margin-left: 50px;
+}
+
+.test{
+    margin-top: 50px;
+}
+
+.card{
+    border: 1px solid;
+    border-radius: 25px;
+}
+
+.child-middler{
+    margin-right: auto;
+    margin-left: auto;
+}
+
