@@ -7,6 +7,7 @@
 ## Core Components
 <a id="Figure-2">![Relay, ESP32, ACS712, ZMPT101b](/images/Relay-ESP-ACS-ZMPT.png)</a>
 <p align="center">Figure n. from left: 5V Relay, ESP32-Devkit-V1, ACS712 Current Sensor, ZMPT101b Voltage Sensor</p>
+
 <a id="Figure-3">![Power Module: Hi-Link HLK-5M05](/images/hilink.png)</a>
 <p align="center">Figure n. Hi-Link HLK-5M05</p>
 
