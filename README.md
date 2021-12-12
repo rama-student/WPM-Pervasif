@@ -11,7 +11,7 @@
 <a id="Figure-3">![Power Module: Hi-Link HLK-5M05](/images/hilink.png)</a>
 <p align="center">Figure n. Hi-Link HLK-5M05</p>
 
-### 5Volt Relay
+### 5 Volt Relay
 We use 1 channel 5v relay to control the electricity flow from AC source to output plug.
 
 ### ESP32-DEVKIT-V1
