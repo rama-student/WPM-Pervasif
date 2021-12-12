@@ -1,14 +1,21 @@
-# Getting started with Wireless Power Meter
+# Wireless Power Meter
 
 ## How WPM Works
 <a id="Figure-1">![Schematic Image](/images/Schematic.jpg)</a>
 <p align="center">Figure 1. Schematic</p>
 
+## Core Components
+<a id="Figure-2">![Relay, ESP32, ACS712, ZMPT101b](/images/Relay-ESP-ACS-ZMPT.png)</a>
+<p align="center">Figure n. from left: 5V Relay, ESP32-Devkit-V1, ACS712 Current Sensor, ZMPT101b Voltage Sensor</p>
+
+<a id="Figure-3">![Power Module: Hi-Link HLK-5M05](/images/hilink.png)</a>
+<p align="center">Figure n. Hi-Link HLK-5M05</p>
+
 ## WPM Website
-<a id="Figure-2">![Homepage](/images/homepageplaceholder.png)</a>
+<a id="Figure-4">![Homepage](/images/homepageplaceholder.png)</a>
 <p align="center">Figure n. Homepage after login</p>
 
-## First time using WPM
+## Getting started with WPM Website
 - Go to [WPM Website](https://wpmumn.herokuapp.com/).
 - Click **Don't have an account? Sign Up**
 - Enter your account information
