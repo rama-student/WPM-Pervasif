@@ -1,5 +1,23 @@
 # Wireless Power Meter
 
+## Table of Contents
+1. [How WPM Works](#how-wpm-works)
+1. [Core Components](#core-components)
+   1. [Relay](#5-volt-relay)
+   1. [ESP32](#esp32-devkit-v1)
+   1. [ACS712](#acs712)
+   1. [ZMPT101b](#zmpt101b)
+   1. [Hi-Link HLK5M05](#HLK-5M05)
+1. [Getting started with WPM device](#getting-started-with-wpm-device)
+
+## List of images
+List Of Images | Description
+------------ | -------------
+[Figure 1](#figure-1) | Schematics
+[Figure 2](#figure-2) | Relay, ESP32, ACS712, ZMPT101b
+[Figure 3](#figure-3) | Hi-Link 5M05 Power Module
+[Figure 4](#figure-4) | Website Homepage
+
 ## How WPM Works
 <a id="Figure-1">![Schematic Image](/images/Schematic.jpg)</a>
 <p align="center">Figure 1. Schematic</p>
