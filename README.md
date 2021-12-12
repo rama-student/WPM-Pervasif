@@ -53,7 +53,7 @@ HLK-5M05 is a power supply module that converts 100-240Vac to 5 Volts and 1000mA
 - You can proceed to login with your email and password
 - Because it's the first time you log in, you need to enter your WPM's MAC Address
 - To get your device MAC Address, simply plug your ESP32 to your PC and it should be in the serial monitor
-- You should be able to monitor your devices now.
+- If everthing inserted correctly, You should be able to monitor your devices now as shown in figure n.
 - Next time, just log in with the account you have just made.
 
 ## WPM Website
