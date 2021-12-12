@@ -27,6 +27,22 @@ ZMPT101b returns output voltage to MCU.
 ### Hi-Link HLK-5M05
 HLK-5M05 is a power supply module that converts 100-240Vac to 5 Volts and 1000mA DC.
 
+## Getting started with WPM device
+- Prepare all the component needed
+  - ESP32-DEVKIT-V1
+  - ACS712
+  - ZMPT101b
+  - Hi-Link HLK-5M05
+  - 5 Volt Relay
+  - Male to Male jumper
+  - Male to Female jumper
+  - Jumper clip
+- Assemble all the component as shown in Figure.1
+- Copy and paste all code in blablabla.c to the ArduinoIDE
+- In the ArduinoIDE change the WiFi SSID & password to your WiFi SSID & Password
+- Compile the program
+- Check serial monitor to make sure everything is working correctly
+
 ## WPM Website
 <a id="Figure-4">![Homepage](/images/homepageplaceholder.png)</a>
 <p align="center">Figure n. Homepage after login</p>
@@ -40,5 +56,6 @@ HLK-5M05 is a power supply module that converts 100-240Vac to 5 Volts and 1000mA
 > Berhasil mendaftar
 - You can proceed to login with your email and password
 - Because it's the first time you log in, you need to enter your WPM's MAC Address
+- To get your device MAC Address, simply plug your ESP32 to your PC and it should be in the serial monitor
 - You should be able to monitor your devices now.
 - Next time, just log in with the account you have just made.
