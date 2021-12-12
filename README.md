@@ -3,7 +3,7 @@
 ## How WPM Works
 ![Schematic Image](/images/Schematic.jpg)
 
-## First time using WPM
+## First time using WPM Website
 - Go to [WPM Website](https://wpmumn.herokuapp.com/).
 - Click **Don't have an account? Sign Up**
 - Enter your account information
