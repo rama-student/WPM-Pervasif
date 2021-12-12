@@ -85,7 +85,7 @@ HLK-5M05 is a power supply module that converts 100-240Vac to 5 Volts and 1000mA
 - Compile the program
 - Check serial monitor to make sure everything is working correctly
 
-## Getting started with WPM Website
+## First time using WPM Website
 - Go to [WPM Website](https://wpmumn.herokuapp.com/).
 - Click **Don't have an account? Sign Up**
 - Enter your account information
