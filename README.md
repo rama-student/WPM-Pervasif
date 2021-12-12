@@ -7,7 +7,7 @@
    1. [ESP32](#esp32-devkit-v1)
    1. [ACS712](#acs712)
    1. [ZMPT101b](#zmpt101b)
-   1. [Hi-Link HLK5M05](#HLK-5M05)
+   1. [Hi-Link HLK-5M05](#HLK-5M05)
 1. [Getting started with WPM device](#getting-started-with-wpm-device)
 
 ## List of images
