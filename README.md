@@ -1,7 +1,7 @@
 # Getting started with Wireless Power Meter
 
 ## How WPM Works
-/images/Schematic.jpg
+![Schematic Image](/images/Schematic.jpg)
 
 ## First time using WPM
 - Go to [WPM Website](https://wpmumn.herokuapp.com/).
