@@ -24,10 +24,10 @@ List Of Images | Description
 
 ## Core Components
 <a id="Figure-2">![Relay, ESP32, ACS712, ZMPT101b](/images/Relay-ESP-ACS-ZMPT.png)</a>
-<p align="center">Figure n. from left: 5V Relay, ESP32-Devkit-V1, ACS712 Current Sensor, ZMPT101b Voltage Sensor</p>
+<p align="center">Figure 2. from left: 5V Relay, ESP32-Devkit-V1, ACS712 Current Sensor, ZMPT101b Voltage Sensor</p>
 
 <a id="Figure-3">![Power Module: Hi-Link HLK-5M05](/images/hilink.png)</a>
-<p align="center">Figure n. Hi-Link HLK-5M05</p>
+<p align="center">Figure 3. Hi-Link HLK-5M05</p>
 
 ### 5 Volt Relay
 We use 1 channel 5v relay to control the electricity flow from AC source to output plug.
@@ -76,4 +76,4 @@ HLK-5M05 is a power supply module that converts 100-240Vac to 5 Volts and 1000mA
 
 ## WPM Website
 <a id="Figure-4">![Homepage](/images/homepageplaceholder.png)</a>
-<p align="center">Figure n. Homepage after login</p>
+<p align="center">Figure 4. Homepage after login</p>
