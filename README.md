@@ -4,6 +4,10 @@
 <a id="Figure-1">![Schematic Image](/images/Schematic.jpg)</a>
 <p align="center">Figure 1. Schematic</p>
 
+## WPM Website
+<a id="Figure-2">![Homepage](/images/homepageplaceholder.png)</a>
+<p align="center">Figure n. Homepage after login</p>
+
 ## First time using WPM
 - Go to [WPM Website](https://wpmumn.herokuapp.com/).
 - Click **Don't have an account? Sign Up**
