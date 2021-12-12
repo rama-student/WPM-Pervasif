@@ -7,9 +7,24 @@
 ## Core Components
 <a id="Figure-2">![Relay, ESP32, ACS712, ZMPT101b](/images/Relay-ESP-ACS-ZMPT.png)</a>
 <p align="center">Figure n. from left: 5V Relay, ESP32-Devkit-V1, ACS712 Current Sensor, ZMPT101b Voltage Sensor</p>
-
 <a id="Figure-3">![Power Module: Hi-Link HLK-5M05](/images/hilink.png)</a>
 <p align="center">Figure n. Hi-Link HLK-5M05</p>
+
+### 5Volt Relay
+We use 1 channel 5v relay to control the electricity flow from AC source to output plug.
+
+### ESP32-DEVKIT-V1
+ESP32 from Espressif is our main microcontroller unit (MCU). 
+This controller is easy to program and have all of features we need and more, most important being Wi-Fi.
+
+### ACS712 
+ACS712 is a Hall Effect-Based Linear Current Sensor that reports AC Current used by output device and reports to MCU.
+
+### ZMPT101b
+ZMPT101b returns output voltage to MCU.
+
+### Hi-Link HLK-5M05
+HLK-5M05 is a power supply module that converts 100-240Vac to 5 Volts and 1000mA DC.
 
 ## WPM Website
 <a id="Figure-4">![Homepage](/images/homepageplaceholder.png)</a>
