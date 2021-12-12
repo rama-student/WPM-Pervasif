@@ -9,7 +9,7 @@
    1. [ZMPT101b](#zmpt101b)
    1. [Hi-Link HLK-5M05](#HLK-5M05)
 1. [Getting started with WPM device](#getting-started-with-wpm-device)
-1. [WPM Website](#wpm-ebsite)
+1. [WPM Website](#wpm-website)
 
 ## List of images
 List Of Images | Description
