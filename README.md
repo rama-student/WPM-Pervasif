@@ -31,7 +31,7 @@ List Of Images | Description
 
 ### ESP32-DEVKIT-V1
 ESP32 from Espressif is our main microcontroller unit (MCU). 
-This controller is easy to program and have all of features we need and more, most important being Wi-Fi.
+This controller is easy to program and have all of features we need and more, most important is already has Wi-Fi Module.
 <br>
 <p align="center">
    <img align="center" id="Figure-2" src="/images/esp32.png" width="250" />
