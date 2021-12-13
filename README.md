@@ -81,7 +81,7 @@ HLK-5M05 is a power supply module that converts 100-240Vac to 5 Volts and 1000mA
   - Jumper clip
 - Assemble all the component as shown in Figure.1
 - Connect ESP32 to your PC
-- Copy and paste all code in blablabla.c to the ArduinoIDE
+- Copy and paste all code in vmonitor2.ino to the ArduinoIDE
 - In the ArduinoIDE change the WiFi SSID & password to your WiFi SSID & Password
 - Compile the program
 - Check serial monitor to make sure everything is working correctly
