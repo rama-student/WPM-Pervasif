@@ -11,6 +11,7 @@
 1. [Getting started with WPM device](#getting-started-with-wpm-device)
 1. [Getting started with WPM Website](#first-time-using-wpm-website)
 1. [WPM Website](#wpm-website-dashboard)
+1. [How to Reverse Engineer WPM Website](#how-to-reverse-engineer-wpm-website)
 
 ## List of images
 List Of Images | Description
@@ -102,3 +103,14 @@ HLK-5M05 is a power supply module that converts 100-240Vac to 5 Volts and 1000mA
 ## WPM Website (Dashboard)
 <a id="Figure-7">![Homepage](/images/homepageplaceholder.png)</a>
 <p align="center">Figure 7. Homepage after login</p>
+
+## How to Reverse Engineer WPM Website
+- Download All file in this repo
+- Run your Visual Studio Code or any other code editor
+- Open 2 terminal (1 located in server path, 1 located in client path)
+- Run npm install on both terminal to download all dependecies
+- Change the .env in client folder and change REACT_APP_baseURL into your localhost address
+- Change "proxy" in package.json in client folder into your localhost address
+- Run 'nodemon server' in your server terminal to run the server
+- Run 'npm start' in your client terminal to run the client
+- Happy Reverse Engineering
